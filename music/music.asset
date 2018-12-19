@@ -1,0 +1,163 @@
+
+# MAIN THEME
+music = {
+	name = "maintheme"
+	file = "Elvis Presley - Its Christmas Time Pretty Baby.ogg"
+	volume = 1.00
+}
+
+music = {
+	name = "christmas_1"
+	file = "Andy Williams - It's the most wonderful time of the year.ogg"
+	volume = 1.00
+}
+
+music = {
+	name = "christmas_2"
+	file = "Band Aid - Do they know it's christmas.ogg"
+	volume = 1.00
+}
+
+music = {
+	name = "christmas_3"
+	file = "Bianca Ryan - Why Couldn't It Be Christmas Everyday.ogg"
+	volume = 1.00
+}
+
+music = {
+	name = "christmas_4"
+	file = "Bon Jovi - Please come home for Christmas.ogg"
+	volume = 1.00
+}
+
+music = {
+	name = "christmas_5"
+	file = "Chris Rea - Driving home for christmas.ogg"
+	volume = 1.00
+}
+
+music = {
+	name = "christmas_6"
+	file = "Darlene Love - All Alone on Christmas.ogg"
+	volume = 1.00
+}
+
+music = {
+	name = "christmas_7"
+	file = "Faith Hill - Where are you christmas.ogg"
+	volume = 1.00
+}
+
+music = {
+	name = "christmas_8"
+	file = "Frank Sinatra - Santa Claus is Coming To Town.ogg"
+	volume = 1.00
+}
+
+music = {
+	name = "christmas_9"
+	file = "Glee - Jingle Bell Rock.ogg"
+	volume = 1.00
+}
+
+music = {
+	name = "christmas_10"
+	file = "John Lennon - Happy Christmas (War is over).ogg"
+	volume = 1.00
+}
+
+music = {
+	name = "christmas_11"
+	file = "Jona Lewie - Stop the cavalry.ogg"
+	volume = 1.00
+}
+
+music = {
+	name = "christmas_12"
+	file = "Jose Feliciano - Feliz Navidad.ogg"
+	volume = 1.00
+}
+
+music = {
+	name = "christmas_13"
+	file = "Kelly Clarkson - Underneath the Tree.ogg"
+	volume = 1.00
+}
+
+music = {
+	name = "christmas_14"
+	file = "Mariah Carey - All I want for christmas is you.ogg"
+	volume = 1.00
+}
+
+music = {
+	name = "christmas_15"
+	file = "Mariah Carey - Christmas (Baby Please Come Home).ogg"
+	volume = 1.00
+}
+
+music = {
+	name = "christmas_16"
+	file = "Mel Smith & Kim Wilde Rockin' Around The Christmas Tree.ogg"
+	volume = 1.00
+}
+
+music = {
+	name = "christmas_17"
+	file = "Michael Buble - Have yourself a merry little Christmas.ogg"
+	volume = 1.00
+}
+
+music = {
+	name = "christmas_18"
+	file = "Michael Buble - It's Beginning To Look A Lot Like Christmas.ogg"
+	volume = 1.00
+}
+
+music = {
+	name = "christmas_19"
+	file = "Michael Buble - Let it snow.ogg"
+	volume = 1.00
+}
+
+music = {
+	name = "christmas_20"
+	file = "Paul McCartney - Wonderful Christmas time.ogg"
+	volume = 1.00
+}
+
+music = {
+	name = "christmas_21"
+	file = "Shakin' Stevens - Merry christmas everyone.ogg"
+	volume = 1.00
+}
+
+music = {
+	name = "christmas_22"
+	file = "Slade - Merry Christmas Everybody.ogg"
+	volume = 1.00
+}
+
+music = {
+	name = "christmas_23"
+	file = "Elton John - Step Into Christmas.ogg"
+	volume = 1.00
+}
+
+music = {
+	name = "christmas_24"
+	file = "Queen - Thank God It's Christmas.ogg"
+	volume = 1.00
+}
+
+music = {
+	name = "christmas_25"
+	file = "Train - Shake up Christmas.ogg"
+	volume = 1.00
+}
+
+music = {
+	name = "christmas_26"
+	file = "Wham! - Last Christmas.ogg"
+	volume = 1.00
+}

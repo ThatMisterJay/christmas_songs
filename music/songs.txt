@@ -1,0 +1,269 @@
+
+music = {
+	song = "maintheme"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}
+	}
+}
+
+music = {
+	song = "christmas_1"
+
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+music = {
+	song = "christmas_2"
+
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+music = {
+	song = "christmas_3"
+
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+music = {
+	song = "christmas_4"
+
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+music = {
+	song = "christmas_5"
+
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+music = {
+	song = "christmas_6"
+
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+music = {
+	song = "christmas_7"
+
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+music = {
+	song = "christmas_8"
+
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+music = {
+	song = "christmas_9"
+
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+music = {
+	song = "christmas_10"
+
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+music = {
+	song = "christmas_11"
+
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+music = {
+	song = "christmas_12"
+
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+music = {
+	song = "christmas_13"
+
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+music = {
+	song = "christmas_14"
+
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+music = {
+	song = "christmas_15"
+
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+music = {
+	song = "christmas_16"
+
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+music = {
+	song = "christmas_17"
+
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+music = {
+	song = "christmas_18"
+
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+music = {
+	song = "christmas_19"
+
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+music = {
+	song = "christmas_20"
+
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+music = {
+	song = "christmas_21"
+
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+music = {
+	song = "christmas_22"
+
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+music = {
+	song = "christmas_23"
+
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+music = {
+	song = "christmas_24"
+
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+music = {
+	song = "christmas_25"
+
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+music = {
+	song = "christmas_26"
+
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
